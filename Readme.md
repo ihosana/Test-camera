@@ -1,0 +1,1 @@
+Testando a camera do App com react-native
